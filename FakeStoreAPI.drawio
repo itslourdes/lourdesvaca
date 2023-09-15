@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T01:30:13.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="sY-K9XB-5BnPNQ5K6F5O" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T01:55:08.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="LimK3i-VUgPLTsBRKalM" version="21.7.5" type="github" pages="2">
   <diagram name="ProductoMasVendidoPorUbicacionYTIempo" id="_Oq3gzK5ZUvKQWLchNnv">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -392,6 +392,26 @@
               <mxPoint x="260" y="480" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="W-oO6GiJ0MLZ7VZd5c1X" name="Página-2">
+    <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Irtg_iDORurSehX6WNOd-1" value="&lt;h1&gt;Stagging area&lt;/h1&gt;&lt;p&gt;lugar donde se alojan los datos antes de ser utilizados/procesados&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="650" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Irtg_iDORurSehX6WNOd-2" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Orígenes de datos&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;CRM: se puede trabajar en csv, xls o sql&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="580" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Irtg_iDORurSehX6WNOd-3" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Enterprise Warehouse&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Se parte de la idea de que existe 1 solo DW del cual va a nacer TODO.&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;De este DW puedo crear distintos DataMars&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="580" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Irtg_iDORurSehX6WNOd-4" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Fuente de la verdad&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: initial;&quot;&gt;Esta fuente es un DT&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Sólo existe 1 fuente de la verdad, esta fuente es el DataWarehouse.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="580" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
