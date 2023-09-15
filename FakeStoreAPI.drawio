@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T01:55:08.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="LimK3i-VUgPLTsBRKalM" version="21.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-15T01:55:42.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="99PSc9-COrHXZeov_UTI" version="21.7.5" type="github" pages="2">
   <diagram name="ProductoMasVendidoPorUbicacionYTIempo" id="_Oq3gzK5ZUvKQWLchNnv">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -412,6 +412,9 @@
         </mxCell>
         <mxCell id="Irtg_iDORurSehX6WNOd-4" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Fuente de la verdad&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: initial;&quot;&gt;Esta fuente es un DT&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Sólo existe 1 fuente de la verdad, esta fuente es el DataWarehouse.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="450" width="580" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Irtg_iDORurSehX6WNOd-5" value="&lt;h1&gt;modelo dimensional, tabla de hechos, dimensiones, como controlar una tabla de hechos&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="620" width="580" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
